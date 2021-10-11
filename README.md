@@ -2,6 +2,18 @@
 
 Playing along with [LinkedIn Learning Ruby on Rails 5 Essential Training](https://www.linkedin.com/learning/ruby-on-rails-5-essential-training).
 
+## Learning Path
+
+My journey so far.  I've enjoyed all the resources listed here. 
+
+* Manning:
+  * [The Well-Grounded Rubyist, Third Edition](https://www.manning.com/books/the-well-grounded-rubyist-third-edition) (60%)
+  * [Rails 4 in Action](https://www.manning.com/books/rails-4-in-action) (not started)
+* LinkedIn Learning:
+  * [Ruby Essential Training Part 1: The Basics](https://www.linkedin.com/learning/ruby-essential-training-part-1-the-basics) (done) 
+  * [Ruby Essential Training Part 2: Classes and Modules](https://www.linkedin.com/learning/ruby-essential-training-part-2-classes-and-modules) (done)
+  * [Ruby on Rails 5 Essential Training](https://www.linkedin.com/learning/ruby-on-rails-5-essential-training) (getting started)
+
 ## Versions
 
 * Course: ruby 2.3.1, rails 5.0.0, mysql
